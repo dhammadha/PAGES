@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dhammadha.github.io/PAGES/sitemap.xml
